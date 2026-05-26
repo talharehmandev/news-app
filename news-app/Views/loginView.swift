@@ -8,5 +8,5 @@ struct loginView: View {
 
 
 #Preview {
-    SplashView()
+    loginView()
 }
