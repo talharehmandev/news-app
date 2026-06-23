@@ -7,4 +7,5 @@ struct AppColors {
     static let text = Color.black
     static let secondaryText = Color.gray
     static let accent = Color.orange
+    static let coral = Color(red: 255/255, green: 107/255, blue: 107/255)
 }
